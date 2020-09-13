@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="newpackage.CookiesRead">
+      <class name="newpackage.TestngSample">
         <methods>
           <include name="afterTest"/>
           <include name="beforeTest"/>
           <include name="f"/>
         </methods>
-      </class> <!-- newpackage.CookiesRead -->
+      </class> <!-- newpackage.TestngSample -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -13,7 +13,7 @@ public class TestngSample
 	 @BeforeTest
 	  public void beforeTest() throws InterruptedException 
 	  {
-		  System.setProperty("webdriver.chrome.driver", "C:\\Users\\sharm\\eclipse-workspace\\OmNamahShivay\\drivers\\chromedriver.exe");
+		  System.setProperty("webdriver.chrome.driver", "C:\\Users\\sharm\\git\\OmNamahShivay\\drivers\\chromedriver.exe");
 		  driver=new ChromeDriver();
 		  driver.manage().window().maximize();
 		  driver.get("https://www.youtube.com/");

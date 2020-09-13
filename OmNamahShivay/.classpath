@@ -2,12 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/sharm/eclipse-workspace/OmNamahShivay/jars/byte-buddy-1.8.15.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sharm/eclipse-workspace/OmNamahShivay/jars/client-combined-3.141.59.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sharm/eclipse-workspace/OmNamahShivay/jars/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sharm/eclipse-workspace/OmNamahShivay/jars/guava-25.0-jre.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sharm/eclipse-workspace/OmNamahShivay/jars/okhttp-3.11.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/sharm/eclipse-workspace/OmNamahShivay/jars/okio-1.14.0.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/sharm/eclipse-workspace/CustomerPortal/lib/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
